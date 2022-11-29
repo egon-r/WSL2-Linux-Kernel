@@ -29,7 +29,7 @@ as follows:
 
 1. Install the build dependencies:  
    `$ sudo apt install build-essential flex bison dwarves libssl-dev libelf-dev`
-2. Create .config file:
+2. Create .config file:  
    `$ cp Microsoft/config-wsl .config`
 3. Build the kernel:  
    `$ make`
